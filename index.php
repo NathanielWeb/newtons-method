@@ -177,10 +177,10 @@
 
 			<!-- Newton's method definition (along with image of the algorithm) -->
 			<h2>What is a Newton's Method?</h2>
-			<img src="../images/recursive-algorithim.JPG" class="normalImage"><br />
+			<img src="recursive-algorithim.JPG" class="normalImage"><br />
 			<p>Newton’s method is a recursive algorithm that is used to calculate the square root of variable “a”. In the formula above “a” is the number we want to square root, “xn” is the current estimation of the square root, and “xn2” is the next estimation of the square root. It uses the formula in the picture to make its first estimate on the square root. This estimation becomes “xn” and the program runs through the formula again to get a better estimation. This continues until the estimation no longer changes after going through the formula. Once this happens we know that we’ve reached a pretty close estimation to the actual square root. </p>
 
-			<img src="../images/recursive-flowchart.JPG" class="normalImage">
+			<img src="recursive-flowchart.JPG" class="normalImage">
 
 			<!-- Works Cited page link -->
 			<h2>Link to Works Cited page:</h2>
